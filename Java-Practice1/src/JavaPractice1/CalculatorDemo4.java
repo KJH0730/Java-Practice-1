@@ -27,6 +27,11 @@ public class CalculatorDemo4 {
 		c1.setOprands(10, 20);
 		c1.sum();
 		c1.avg();
+		
+		Calculator c2 = new Calculator();
+		c2.setOprands(20, 40);
+		c2.sum();
+		c2.avg();
 	}
-
+	
 }
