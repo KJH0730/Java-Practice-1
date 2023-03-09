@@ -1,4 +1,4 @@
-package JavaPractice1;
+package classinstance;
 
 class Calculator2 {
 	static double PI = 3.14;

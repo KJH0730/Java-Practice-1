@@ -1,4 +1,4 @@
-package JavaPractice1;
+package classinstance;
 
 class Calculator{
 	int left, right;
